@@ -1,0 +1,36 @@
+menu:
+  Home: /
+  Archives: /archives
+  AboutMe: /about.html
+widgets: 
+- search
+- category
+- tag
+- clustrmaps
+- weibo
+#- twitter
+#- hello
+
+excerpt_link: 更多
+
+twitter:
+  username: Tom_achai
+  show_replies: true
+  tweet_count: 5
+
+weibo:
+  enable: true
+
+
+addthis:
+  enable: false
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+google_analytics: false
+rss:
