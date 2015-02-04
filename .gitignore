@@ -4,5 +4,7 @@ node_modules
 
 db.json
 .idea
+.deploy_git
 .deploy
+debug.log
 /public

@@ -1,4 +1,4 @@
-title: Let's start Cocos2d-html5 2 : Dynamic World !
+title: "Let's start Cocos2d-html5 2 : Dynamic World !"
 date: 2014-02-09
 tags: game
 ---
