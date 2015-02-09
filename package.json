@@ -1,7 +1,10 @@
 {
   "name": "hexo-site",
-  "version": "3.0.0-rc.2",
+  "version": "3.0.0-rc.3",
   "private": true,
+   "hexo": {
+    "version": "3.0.0-rc.3"
+  },
   "dependencies": {
     "hexo-deployer-git": "0.0.3",
     "hexo-generator-archive": "*",
