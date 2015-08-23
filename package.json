@@ -1,12 +1,12 @@
 {
   "name": "hexo-site",
-  "version": "3.0.0-rc.3",
+  "version": “1.0”,
   "private": true,
   "hexo": {
-    "version": "3.0.0-rc.4"
+    "version": “3.1.1”
   },
   "dependencies": {
-    "hexo": "^3.0.0-rc.4",
+    "hexo": "^3.1.1”,
     "hexo-deployer-git": "0.0.3",
     "hexo-generator-archive": "*",
     "hexo-generator-category": "*",
