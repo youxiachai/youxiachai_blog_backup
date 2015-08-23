@@ -8,3 +8,5 @@ db.json
 .deploy
 debug.log
 /public
+
+npm-debug.log
