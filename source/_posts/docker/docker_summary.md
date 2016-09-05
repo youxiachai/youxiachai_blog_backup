@@ -80,7 +80,7 @@ docker-machine restart default
  
  这次就不会报错了！
 
-###参考资料
+### 参考资料
 > https://docs.docker.com/registry/deploying/
 
 ## 完整的docker实践
