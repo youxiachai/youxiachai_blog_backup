@@ -1,6 +1,9 @@
+---
 title: 用nodejs 改造一个移动版本的网站
-date: 2013-05-05
 tags: node
+categories:
+  - nodejs
+date: 2013-05-05 00:00:00
 ---
 
 ##前言##

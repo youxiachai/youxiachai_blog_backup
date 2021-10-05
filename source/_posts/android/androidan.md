@@ -1,6 +1,9 @@
-title:  Android 应用的动画实践--View Animation篇
-date: 2013-05-30
+---
+title: Android 应用的动画实践--View Animation篇
 tags: android
+categories:
+  - android
+date: 2013-05-30 00:00:00
 ---
 
 ##前言##

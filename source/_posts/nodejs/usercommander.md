@@ -1,6 +1,9 @@
+---
 title: 用node开发repl应用
-date: 2014-01-20
 tags: node
+categories:
+  - nodejs
+date: 2014-01-20 00:00:00
 ---
 
 ## 前言

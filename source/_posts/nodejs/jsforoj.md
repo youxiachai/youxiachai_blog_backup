@@ -1,6 +1,9 @@
+---
 title: JavaScript 也来挑战ACM
-date: 2014-05-18
 tags: node
+categories:
+  - nodejs
+date: 2014-05-18 00:00:00
 ---
 
 ## 前言

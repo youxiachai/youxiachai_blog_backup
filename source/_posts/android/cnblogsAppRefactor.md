@@ -1,6 +1,9 @@
+---
 title: 重构博客园Android App
-date: 2013-06-20
 tags: android
+categories:
+  - android
+date: 2013-06-20 00:00:00
 ---
 
 ##前言##

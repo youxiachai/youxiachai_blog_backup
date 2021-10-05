@@ -1,6 +1,9 @@
+---
 title: 用Gradle 构建你的android程序-依赖管理篇
-date: 2013-05-22
 tags: android
+categories:
+  - android
+date: 2013-05-22 00:00:00
 ---
 ##前言##
 续上一篇《用Gradle 构建你的android程序》，这次把上次没写的关于，如何用gralde 构建带有依赖的项目补全吧。

@@ -1,6 +1,9 @@
+---
 title: 基于HTTP 协议认证介绍与实现
-date: 2013-06-15
 tags: http
+categories:
+  - http
+date: 2013-06-15 00:00:00
 ---
 
 ##导言##

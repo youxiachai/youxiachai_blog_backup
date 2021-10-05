@@ -1,6 +1,9 @@
-title: "Let's start Cocos2d-html5 1 : Hello World!"
-date: 2014-02-08
+---
+title: 'Let''s start Cocos2d-html5 1 : Hello World!'
 tags: game
+categories:
+  - game
+date: 2014-02-08 00:00:00
 ---
 
 ## 世界观

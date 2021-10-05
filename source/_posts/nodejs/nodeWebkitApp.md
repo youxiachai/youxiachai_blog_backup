@@ -1,6 +1,9 @@
+---
 title: 用node-webkit开发PC 客户端
-date: 2013-07-03
 tags: node
+categories:
+  - nodejs
+date: 2013-07-03 00:00:00
 ---
 
 ##导言##

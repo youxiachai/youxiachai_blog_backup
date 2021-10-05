@@ -1,6 +1,9 @@
+---
 title: iOS 第三周学习笔记 View
-date: 2015-09-21
 tags: iOS
+categories:
+  - ios
+date: 2015-09-21 00:00:00
 ---
 
 ## 前言

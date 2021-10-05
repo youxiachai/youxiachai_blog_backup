@@ -1,6 +1,9 @@
+---
 title: 2015年终总结之思考
-date: 2016-02-13
 tags: summary
+categories:
+  - summary
+date: 2016-02-13 00:00:00
 ---
 
 ## 前言

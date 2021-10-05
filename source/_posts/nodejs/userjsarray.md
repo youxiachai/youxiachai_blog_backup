@@ -1,6 +1,9 @@
+---
 title: JS 数组的奇妙用法
-date: 2014-06-09
 tags: node
+categories:
+  - nodejs
+date: 2014-06-09 00:00:00
 ---
 
 ## 前言

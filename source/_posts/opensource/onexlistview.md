@@ -1,6 +1,9 @@
-﻿title: android OneXlistview 1.0.0 说明
-date: 2013-05-03
+---
+title: android OneXlistview 1.0.0 说明
 tags: android
+categories:
+  - opensource
+date: 2013-05-03 00:00:00
 ---
 
 ##前言##

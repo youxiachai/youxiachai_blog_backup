@@ -1,6 +1,12 @@
+---
 title: 从零构建webapps
-date: 2014-03-05
-tags: [html5, phonegap, appframework]
+tags:
+  - html5
+  - phonegap
+  - appframework
+categories:
+  - html5
+date: 2014-03-05 00:00:00
 ---
 
 # 前言

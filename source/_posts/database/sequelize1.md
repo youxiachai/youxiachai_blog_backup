@@ -1,6 +1,11 @@
+---
 title: Node.js ORM 框架 sequelize 入门教程 1
-date: 2014-04-06
-tags: [nodejs, sequelize]
+tags:
+  - nodejs
+  - sequelize
+categories:
+  - database
+date: 2014-04-06 00:00:00
 ---
 
 ## 导言

@@ -1,6 +1,9 @@
+---
 title: 国庆博客恢复更新
-date: 2021-10-05 23:02:46
 tags: others
+categories:
+  - other
+date: 2021-10-05 23:02:46
 ---
 
 最后一篇博客占坑 2019 的google io 后面也没填坑，国庆折腾了ts, flutter, node，hexo, 两年没更新博客了，我觉得是时候恢复更新了。

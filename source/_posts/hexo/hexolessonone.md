@@ -1,6 +1,9 @@
+---
 title: Hexo 简明入门教程（一）
-date: 2013-04-04 05:00:00
 tags: hexo
+categories:
+  - hexo
+date: 2013-04-04 05:00:00
 ---
 
 ##导言##

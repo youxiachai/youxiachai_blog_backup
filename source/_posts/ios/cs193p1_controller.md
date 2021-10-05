@@ -1,6 +1,9 @@
+---
 title: iOS 第二周学习笔记 Controller
-date: 2015-09-13
 tags: iOS
+categories:
+  - ios
+date: 2015-09-13 00:00:00
 ---
 
 ## 前言

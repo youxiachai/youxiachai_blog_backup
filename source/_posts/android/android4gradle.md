@@ -1,6 +1,9 @@
+---
 title: 用Gradle 构建你的android程序
-date: 2013-05-19
 tags: android
+categories:
+  - android
+date: 2013-05-19 00:00:00
 ---
 ##前言##
 android gradle 的插件终于把混淆代码的task集成进去了，加上最近，android studio 用的是gradle 来构建项目， 下定决心把android gralde 构建项目的用户指南全部看完， 让不会用gradle 的人也用gradle构建android项目，让打包（注意，打包和构建是两码事）多版本android不再痛苦。最后，题外话：珍惜生命，远离ant....

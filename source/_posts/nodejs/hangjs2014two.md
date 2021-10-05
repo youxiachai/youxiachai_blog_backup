@@ -1,6 +1,9 @@
+---
 title: 2014 Hangjs 见闻流水账第二天
-date: 2014-06-29
 tags: node
+categories:
+  - nodejs
+date: 2014-06-29 00:00:00
 ---
 
 ## 前言

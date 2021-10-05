@@ -1,6 +1,9 @@
+---
 title: JSDMO 使用笔记
-date: 2013-05-04
 tags: node
+categories:
+  - nodejs
+date: 2013-05-04 00:00:00
 ---
 
 ##jsdom.env##

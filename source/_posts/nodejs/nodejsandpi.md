@@ -1,6 +1,11 @@
+---
 title: 树莓派上的Node.js
-date: 2014-08-31
-tags: [node,pi]
+tags:
+  - node
+  - pi
+categories:
+  - nodejs
+date: 2014-08-31 00:00:00
 ---
 
 ## 前言

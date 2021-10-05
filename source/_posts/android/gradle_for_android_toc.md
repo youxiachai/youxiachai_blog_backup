@@ -1,6 +1,9 @@
+---
 title: Gradle For Android 实用手册
-date: 2015-02-28
 tags: android
+categories:
+  - android
+date: 2015-02-28 00:00:00
 ---
 
 ## 前言

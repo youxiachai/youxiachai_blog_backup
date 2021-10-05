@@ -1,6 +1,9 @@
-title: docker学习总结 
-date: 2016-02-29
+---
+title: docker学习总结
 tags: docker
+categories:
+  - docker
+date: 2016-02-29 00:00:00
 ---
 
 ## 前言

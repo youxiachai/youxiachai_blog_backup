@@ -1,6 +1,11 @@
+---
 title: Angularjs 学习总结
-date: 2014-06-02
-tags: [html5, angular]
+tags:
+  - html5
+  - angular
+categories:
+  - html5
+date: 2014-06-02 00:00:00
 ---
 
 ## 前言

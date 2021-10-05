@@ -1,6 +1,11 @@
+---
 title: Pomelo Issue Faq(Pomelo 常见问题集)
-date: 2013-06-26
-tags: [node, pomelo]
+tags:
+  - node
+  - pomelo
+categories:
+  - pomelo
+date: 2013-06-26 00:00:00
 ---
 ##导言##
 基本上把pomelo 在github上 两个issue repo 全部看完(4xx) [pomelo-cn](https://github.com/NetEase/pomelo-cn/issues?state=open) [pomelo](https://github.com/NetEase/pomelo/issues?state=open) 顺便吐槽一下貌似大家都不知道pomelo-cn? 发现一些新的中文issue 都是来自于pomelo...我觉得这样老外很伤心..呵呵...挑选了一下个人觉得有代表性的问题,因为纯粹是我个人评价,所以,欢迎你提供有价值的issue...

@@ -1,6 +1,9 @@
-﻿title: Android AdapterView 源码分析以及其相关回收机制的分析
-date: 2013-05-10
+---
+title: Android AdapterView 源码分析以及其相关回收机制的分析
 tags: android
+categories:
+  - android
+date: 2013-05-10 00:00:00
 ---
 
 ##前言##

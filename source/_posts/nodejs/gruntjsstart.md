@@ -1,6 +1,9 @@
+---
 title: Grunt 新手指南
-date: 2013-08-31
 tags: node
+categories:
+  - nodejs
+date: 2013-08-31 00:00:00
 ---
 
 ##导言##

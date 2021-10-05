@@ -41,9 +41,9 @@ comment_valine:
   appKey:
 
 comment_disqus:
-    enable: false
-    url:  # the url of your website main domain like this https://xxx.xxx/
-    name: # the short name in disqus
+    enable: true
+    url:  https://blog.gfdsa.net/
+    name: bloggfdsanet
 
 # dark
 # light

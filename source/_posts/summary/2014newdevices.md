@@ -1,6 +1,9 @@
+---
 title: 2014败家回顾
-date: 2015-01-19 15:52:04
 tags: summary
+categories:
+  - summary
+date: 2015-01-19 15:52:04
 ---
 
 ## 败家目录

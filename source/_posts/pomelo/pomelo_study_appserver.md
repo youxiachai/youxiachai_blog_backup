@@ -1,6 +1,11 @@
+---
 title: 用Pomelo 搭建一个简易的推送平台
-date: 2013-06-17
-tags: [node, pomelo]
+tags:
+  - node
+  - pomelo
+categories:
+  - pomelo
+date: 2013-06-17 00:00:00
 ---
 
 ##前言##

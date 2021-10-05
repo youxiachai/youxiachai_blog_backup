@@ -1,6 +1,9 @@
+---
 title: Hexo 主题制作
-date: 2013-04-09 05:00:00
 tags: hexo
+categories:
+  - hexo
+date: 2013-04-09 05:00:00
 ---
 
 ##主题相关变量##

@@ -1,6 +1,9 @@
+---
 title: Gradle 构建 android 应用常见问题解决指南
-date: 2013-09-30
 tags: android
+categories:
+  - android
+date: 2013-09-30 00:00:00
 ---
 ## 前言
 android gradle 插件已经发展到0.5.7,同时gradle 本身也到了1.8,相比两个月前,android gradle 更快,更完善,也更好用了,为了让各位androider 早日用上gradle这样的神器,特地写一篇关于gradle一些奇葩错误的解决指南.

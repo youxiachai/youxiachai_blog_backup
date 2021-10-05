@@ -1,6 +1,9 @@
+---
 title: 移动应用使用场景边界测试笔记
-date: 2013-05-22
 tags: android
+categories:
+  - android
+date: 2013-05-22 00:00:00
 ---
 
 ##前言##

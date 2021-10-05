@@ -1,6 +1,11 @@
+---
 title: Pomelo 一周之旅--星期四
-date: 2013-06-06
-tags: [node, pomelo]
+tags:
+  - node
+  - pomelo
+categories:
+  - pomelo
+date: 2013-06-06 00:00:00
 ---
 
 ##前言##

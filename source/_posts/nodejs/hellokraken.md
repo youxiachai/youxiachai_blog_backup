@@ -1,6 +1,9 @@
+---
 title: Hello Kraken.js!
-date: 2013-11-30
 tags: node
+categories:
+  - nodejs
+date: 2013-11-30 00:00:00
 ---
 
 ## 前言

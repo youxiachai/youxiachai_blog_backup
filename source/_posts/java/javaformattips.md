@@ -1,6 +1,9 @@
-﻿title: Java Formatter 阅读心得
-date: 2013-04-28
+---
+title: Java Formatter 阅读心得
 tags: java
+categories:
+  - java
+date: 2013-04-28 00:00:00
 ---
 
 ##导言##

@@ -1,6 +1,9 @@
+---
 title: android 事件机制的实现与实践
-date: 2014-07-31
 tags: android
+categories:
+  - android
+date: 2014-07-31 00:00:00
 ---
 
 ##前言##

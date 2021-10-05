@@ -1,6 +1,9 @@
-﻿title: MQTT 折腾笔记之协议简读
-date: 2013-04-25
+---
+title: MQTT 折腾笔记之协议简读
 tags: MQTT
+categories:
+  - mqtt
+date: 2013-04-25 00:00:00
 ---
 
 ##导言##

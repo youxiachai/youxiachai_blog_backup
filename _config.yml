@@ -86,3 +86,7 @@ exclude_generator:
 deploy:
   type: git
   repository: git@github.com:youxiachai/youxiachai.github.io.git
+
+auto_category:
+  enable: true
+  depth: 

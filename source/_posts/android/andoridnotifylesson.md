@@ -1,6 +1,9 @@
-﻿title: Android 新Notification api 介绍
-date: 2013-05-10
+---
+title: Android 新Notification api 介绍
 tags: android
+categories:
+  - android
+date: 2013-05-10 00:00:00
 ---
 
 ##前言##
