@@ -50,7 +50,7 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
+port: 14000
 server_ip: localhost
 logger: false
 logger_format: dev
@@ -72,13 +72,13 @@ disqus_shortname:
 
 avatar: "https://avatars1.githubusercontent.com/u/929502?v=3&s=150"
 
-duoshuo: true
+duoshuo: false
 
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 #theme: light , hexo2bootstrap yilia
-theme: yilia
+theme: hexo-theme-Claudia
 
 exclude_generator:
 

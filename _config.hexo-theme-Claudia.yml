@@ -1,0 +1,64 @@
+# main menu navigation
+menu:
+  Home: /
+  About: /aboutme.html
+  Archive: /archives
+
+widgets:
+  - tag
+  - archive
+  - recent_posts
+  - category
+  - profile
+
+# social config
+social:
+  zhihu:
+  twitter: Tom_achai
+  facebook: /
+  linkedin:
+  instagram: /
+  github: youxiachai
+
+user:
+  name: youxiachai
+  avatar: "https://avatars1.githubusercontent.com/u/929502?v=3&s=150"
+  location: 一个在IT业界打杂的程序猿
+  description: 一个在IT业界打杂的程序猿
+  footnotes: # footnotes
+
+# documents: https://github.com/utterance/utterances
+# API config: https://utteranc.es/
+comment_utteranc:
+  enable: false
+  repo: Haojen/Claudia-theme-blog # your blog repo
+
+
+# documents: https://valine.js.org/quickstart.html
+comment_valine:
+  enable: false
+  appId:
+  appKey:
+
+comment_disqus:
+    enable: false
+    url:  # the url of your website main domain like this https://xxx.xxx/
+    name: # the short name in disqus
+
+# dark
+# light
+# user-can-set
+appearance: auto # Default value is auto
+
+# Miscellaneous
+favicon: /images/favicon.png
+
+# Google Analytics
+ga_track_id: 'UA-31013178-1'
+ga_domain:
+
+# Baidu Analytics
+ba_track_id: '75f5de70aa60d9d2b194636cd8b7b621'
+
+# picture of about page
+about_pic: about.png
