@@ -71,7 +71,7 @@ v2 ping attempt failed with error: Get https://192.168.99.100:5000/v2/: tls: ove
 ' 
 //然后重启docker-machine
 docker-machine restart default
- ```
+```
  
  当你把镜像重新运行起来就可以正常使用
  ```

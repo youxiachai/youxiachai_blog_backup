@@ -28,10 +28,9 @@ max_open_file: 100
 filename_case: 0
 post_asset_folder: true
 highlight:
-  enable: true
-  backtick_code_block: true
-  line_number: true
-  tab_replace:
+  enable: false
+prismjs:
+  enable: false
 
 # Category & Tag
 default_category: uncategorized

@@ -12,7 +12,7 @@ tags: iOS
 ## TableView
 
 需要学习的几个方法
-```swift
+```
 
 override func numberOfSectionsInTableView(tableView: UITableView) -> Int {
         return 0
